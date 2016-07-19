@@ -1,0 +1,22 @@
+{
+  "name": "meteor-redux",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "tron": "node_modules/.bin/reactotron"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.2.1",
+    "react-addons-pure-render-mixin": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-mounter": "^1.2.0",
+    "redux-diff-logger": "0.0.9",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-class-properties": "^6.10.2"
+  }
+}
